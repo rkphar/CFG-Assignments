@@ -18,6 +18,8 @@ I also managed to make 2 branches. I created a **second** and **third** branch. 
 ![Screenshot 2024-05-19 115004](https://github.com/rkphar/GitTest/assets/169801648/5a906057-a535-4aae-b9a3-18d332ebf8cf)
 ![Screenshot 2024-05-19 115411](https://github.com/rkphar/GitTest/assets/169801648/d2754be5-e3a6-48f0-a94f-9de9358f5f97)
 
+I also created a **.gitignore** and a **requirements.txt** file through GitHub which I found the easiest way to do it.
+
 I created a new file in the second branch which was called pulltest.txt to test **pulling**, **branching** and **merging**. I managed to pull and branch through Git, but when merging, I found it easier to do this through GitHub.
 
 I hope you are able to check all of my work on GitHub and all of the different changes which were made. I am aware I am still learning how to use Git and Github properly and it is all trial and error(mostly error just now 😕)
