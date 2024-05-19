@@ -1,4 +1,6 @@
-# Git and GitHub Assignment #0969DA
+`#0969DA`
+
+# Git and GitHub Assignment
 
 ## About Me
 
