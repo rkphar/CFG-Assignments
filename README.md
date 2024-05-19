@@ -1,4 +1,4 @@
-# Git and GitHub Assignment
+# Git and GitHub Assignment #0969DA
 
 ## About Me
 
@@ -13,3 +13,9 @@ I started off by creating a repository called **GitTest** within GitHub and sett
 ![Screenshot 2024-05-19 113613](https://github.com/rkphar/GitTest/assets/169801648/aa85269e-406d-4d2c-82a8-ccf91634b452)
 ![Screenshot 2024-05-19 113046](https://github.com/rkphar/GitTest/assets/169801648/6d1e455e-419e-4b41-a1e8-3062828f4ff9)
 
+I also managed to make 2 branches. I created a **second** and **third** branch. The third branch is illustrated below, but the third branch was then deleted.
+
+![Screenshot 2024-05-19 115004](https://github.com/rkphar/GitTest/assets/169801648/5a906057-a535-4aae-b9a3-18d332ebf8cf)
+![Screenshot 2024-05-19 115411](https://github.com/rkphar/GitTest/assets/169801648/d2754be5-e3a6-48f0-a94f-9de9358f5f97)
+
+I created a 
