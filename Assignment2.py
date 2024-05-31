@@ -7,11 +7,11 @@ import random
 # Importing the module to allow special characters like &, ', ! and ? to be printed correctly
 import html
 
-# Calling the Trivia Database API. I have limited the number of questions to 10. I have not specified which questions
+# Calling the Trivia Database API. I have limited the number of questions to 10, but this can be easily changed and you could add another user input where the user decides how many questions they want to answer. I have not specified which questions
 # can be asked. If required, I could have specified the category, type or difficulty level of the questions.
 url = 'https://opentdb.com/api.php?amount=10'
 
-# Checking the response has been successful
+# Checking the response has been successful by printing 200
 response = requests.get(url)
 print(response.status_code)
 
