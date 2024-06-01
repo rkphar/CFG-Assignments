@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Importing the module to allow me to interact with the Trivia Database API
 import requests
 
@@ -73,3 +74,6 @@ with open('results.txt', 'w') as text_file:
 
 # Advises the user where they can check their trivia results
 print('Please check your results in results.txt')
+=======
+
+>>>>>>> 207672c545c996d169bc0280d48e72599b92fd39
