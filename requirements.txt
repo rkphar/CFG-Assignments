@@ -1,0 +1,3 @@
+This is my requirements.txt
+
+This is used to let the user know what software may be required to use the repository. This could include programming software like PyCharm or MySQL, or the minimum requirements for the computer being used, for example Windows 11.
